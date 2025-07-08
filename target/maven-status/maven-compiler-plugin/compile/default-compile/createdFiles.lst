@@ -1,0 +1,17 @@
+pe\edu\vallegrande\tranformacion\model\Goal.class
+pe\edu\vallegrande\tranformacion\config\WebClientConfig.class
+pe\edu\vallegrande\tranformacion\service\TransformationService.class
+pe\edu\vallegrande\tranformacion\dto\FamilyDTO.class
+pe\edu\vallegrande\tranformacion\config\SwaggerConfig.class
+pe\edu\vallegrande\tranformacion\dto\GoalDTO.class
+pe\edu\vallegrande\tranformacion\exception\GlobalExceptionHandler$ErrorResponse.class
+pe\edu\vallegrande\tranformacion\dto\TransformationDTO.class
+pe\edu\vallegrande\tranformacion\exception\GlobalExceptionHandler.class
+pe\edu\vallegrande\tranformacion\webclient\client\FamilyClient.class
+pe\edu\vallegrande\tranformacion\webclient\client\GoalClient.class
+pe\edu\vallegrande\tranformacion\repository\TransformationRepository.class
+pe\edu\vallegrande\tranformacion\GoalManagementApplication.class
+pe\edu\vallegrande\tranformacion\model\Transformation.class
+pe\edu\vallegrande\tranformacion\service\Impl\TransformationServiceImpl.class
+pe\edu\vallegrande\tranformacion\config\WebFluxConfig.class
+pe\edu\vallegrande\tranformacion\controller\TransformationController.class
